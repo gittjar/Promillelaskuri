@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "KJoO3dFyrpbqu2A4WlsfreJTGW/kBN1dccBdEm9vKvYGB96E2dKLsxIeBXpWCKHOb4VDnGpOIDGUOOA0YKMZRQ==",
+  "success": true,
+  "projectFilePath": "/Users/s2200692/C-harjoitukset/Promillelaskuri/Promillelaskuri.csproj",
+  "expectedPackageFiles": [
+    "/Users/s2200692/.nuget/packages/spectre.console/0.46.0/spectre.console.0.46.0.nupkg.sha512",
+    "/Users/s2200692/.nuget/packages/system.memory/4.5.5/system.memory.4.5.5.nupkg.sha512"
+  ],
+  "logs": []
+}

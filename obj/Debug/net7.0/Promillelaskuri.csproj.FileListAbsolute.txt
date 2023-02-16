@@ -1,0 +1,17 @@
+/Users/s2200692/C-harjoitukset/Promillelaskuri/obj/Debug/net7.0/Promillelaskuri.csproj.AssemblyReference.cache
+/Users/s2200692/C-harjoitukset/Promillelaskuri/obj/Debug/net7.0/Promillelaskuri.GeneratedMSBuildEditorConfig.editorconfig
+/Users/s2200692/C-harjoitukset/Promillelaskuri/obj/Debug/net7.0/Promillelaskuri.AssemblyInfoInputs.cache
+/Users/s2200692/C-harjoitukset/Promillelaskuri/obj/Debug/net7.0/Promillelaskuri.AssemblyInfo.cs
+/Users/s2200692/C-harjoitukset/Promillelaskuri/obj/Debug/net7.0/Promillelaskuri.csproj.CoreCompileInputs.cache
+/Users/s2200692/C-harjoitukset/Promillelaskuri/bin/Debug/net7.0/Promillelaskuri
+/Users/s2200692/C-harjoitukset/Promillelaskuri/bin/Debug/net7.0/Promillelaskuri.deps.json
+/Users/s2200692/C-harjoitukset/Promillelaskuri/bin/Debug/net7.0/Promillelaskuri.runtimeconfig.json
+/Users/s2200692/C-harjoitukset/Promillelaskuri/bin/Debug/net7.0/Promillelaskuri.dll
+/Users/s2200692/C-harjoitukset/Promillelaskuri/bin/Debug/net7.0/Promillelaskuri.pdb
+/Users/s2200692/C-harjoitukset/Promillelaskuri/bin/Debug/net7.0/Spectre.Console.dll
+/Users/s2200692/C-harjoitukset/Promillelaskuri/obj/Debug/net7.0/Promillelaskuri.csproj.CopyComplete
+/Users/s2200692/C-harjoitukset/Promillelaskuri/obj/Debug/net7.0/Promillelaskuri.dll
+/Users/s2200692/C-harjoitukset/Promillelaskuri/obj/Debug/net7.0/refint/Promillelaskuri.dll
+/Users/s2200692/C-harjoitukset/Promillelaskuri/obj/Debug/net7.0/Promillelaskuri.pdb
+/Users/s2200692/C-harjoitukset/Promillelaskuri/obj/Debug/net7.0/Promillelaskuri.genruntimeconfig.cache
+/Users/s2200692/C-harjoitukset/Promillelaskuri/obj/Debug/net7.0/ref/Promillelaskuri.dll

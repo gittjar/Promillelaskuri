@@ -1,0 +1,67 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/s2200692/C-harjoitukset/Promillelaskuri/Promillelaskuri.csproj": {}
+  },
+  "projects": {
+    "/Users/s2200692/C-harjoitukset/Promillelaskuri/Promillelaskuri.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/s2200692/C-harjoitukset/Promillelaskuri/Promillelaskuri.csproj",
+        "projectName": "Promillelaskuri",
+        "projectPath": "/Users/s2200692/C-harjoitukset/Promillelaskuri/Promillelaskuri.csproj",
+        "packagesPath": "/Users/s2200692/.nuget/packages/",
+        "outputPath": "/Users/s2200692/C-harjoitukset/Promillelaskuri/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/s2200692/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Spectre.Console": {
+              "target": "Package",
+              "version": "[0.46.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.102/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
